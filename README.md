@@ -66,3 +66,4 @@ The use of a system like this is when a value investor finds a stock, of which t
   ## Links
 
   -  [Google Slides Presentation](https://docs.google.com/presentation/d/1MSXmqDsJS7kaixIAB2RXjj8DKBLAH8lBR-efk1LCq74/edit?usp=sharing)
+  - [NASDAQ Stock Screener](https://www.nasdaq.com/market-activity/stocks/screener)
