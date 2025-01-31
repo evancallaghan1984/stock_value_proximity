@@ -13,6 +13,7 @@ This project uses Machine Learning to create a recommendation system in which th
 - Quick Ratio
 - Earnings Per Share Forward
 - Debt to Equity Ratio
+
 The use of a system like this is when a value investor finds a stock, of which the value of that stock serves the purpose of the investor, (longing, shorting, finding fair value stocks, etc.) the investor can use this model to find more stocks which align closely to the inherent value of the input stock.
 ## Business Understanding
 - **Key Business Questions:**
