@@ -31,6 +31,7 @@ The use of a system like this is when a value investor finds a stock, of which t
 
 - **Visualizations:**
     1. ![Feature Importance](visuals/top_5_feature_importance.png)
+    2. ![Example Output of Model using AAPL](visuals/model_5_AAPL_output_example.png)
 
  
 
