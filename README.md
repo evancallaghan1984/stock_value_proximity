@@ -31,7 +31,9 @@ The use of a system like this is when a value investor finds a stock, of which t
 
 - **Visualizations:**
     1. ![Feature Importance](visuals/top_5_feature_importance.png)
+        *Top 5 financial valuation features used by the model and their percentage contribution.*
     2. ![Example Output of Model using AAPL](visuals/model_5_AAPL_output_example.png)
+        *Example of 5 stocks recommended by the model with a user input of the stock ticker 'AAPL'. This shows the 5 stocks that are closest in value to the user input.*
 
  
 
